@@ -1,0 +1,5 @@
+build/
+*.ilk
+*.swp
+*.un~
+*.pdb
